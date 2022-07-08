@@ -1,7 +1,7 @@
 Tutorial na spustenie:
 1. Stiahnuť 
 2. Unzip file
-3. Otvoriť v IDE programe napr. VS Code
+3. Otvoriť v IDE/Code editore napr. VS Code
 4. Otvoriť konzolu v IDE programe
 5. Zadať command - npm init
 6. Zadať command - npm install
